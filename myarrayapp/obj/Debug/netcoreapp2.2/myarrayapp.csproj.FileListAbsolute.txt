@@ -1,0 +1,11 @@
+C:\Users\sal\Documents\Code\myarrayapp\bin\Debug\netcoreapp2.2\myarrayapp.deps.json
+C:\Users\sal\Documents\Code\myarrayapp\bin\Debug\netcoreapp2.2\myarrayapp.runtimeconfig.json
+C:\Users\sal\Documents\Code\myarrayapp\bin\Debug\netcoreapp2.2\myarrayapp.runtimeconfig.dev.json
+C:\Users\sal\Documents\Code\myarrayapp\bin\Debug\netcoreapp2.2\myarrayapp.dll
+C:\Users\sal\Documents\Code\myarrayapp\bin\Debug\netcoreapp2.2\myarrayapp.pdb
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.csprojAssemblyReference.cache
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.csproj.CoreCompileInputs.cache
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.AssemblyInfoInputs.cache
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.AssemblyInfo.cs
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.dll
+C:\Users\sal\Documents\Code\myarrayapp\obj\Debug\netcoreapp2.2\myarrayapp.pdb
