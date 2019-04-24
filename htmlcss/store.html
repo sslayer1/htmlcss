@@ -3,10 +3,11 @@
     <head>
         <title>Go West | Store</title>
         <meta name="description" content="This is the description">
+        <link rel="stylesheet" href="styles.css"  />
     </head>
         <body>
-            <header>
-                <nav>
+            <header class = "main-header">
+                <nav class="nav main-nav">
                 <ul>
                     <li><a href="index.html">HOME</a></li>
                     <li><a href="store.html">STORE</a></li>
@@ -14,19 +15,16 @@
                 </ul>
             </nav>
             <hr>
-            <h1>Go West</h1>
+            <h1 class= "band-name band-name-large">Go West</h1>
             </header>
-            <section>
-                <h2>Music</h2>
-            </section>
-            <div>
-                <div>
-                    <strong>Go West Go West</strong>
-                </div>
-                <img src="Images/album1.png">
-                <div>
-                    <span>£5.99</span>
-                <button roll="button">Add To Cart</button>
+            <section class="container content-section">
+                <h2 class="section-header">Music</h2>
+                <div class="shop-item">
+                    <span class="shop-item-title">Go West Go West</span>
+                    <img class="shop-item-image" src="Images/album1.png">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">£5.99</span>
+                        <button class="btn btn-primary shop-item-button">Add To Cart</button>
                 </div>
             </div>
             <div>
@@ -119,13 +117,17 @@
                         <button role = "button">PURCHASE</button>
                     </div>
             </section>
-            <footer>
-                <h3>Go West</h3>
-                <ul>
-                    <li><a href="https://youtube.com" target="_blank"> <img src="Images/youtube.png"></a></li>
-                    <li><a href="https://spotify.com" target="_blank"> <img src="Images/spotify.png"></a></li>
-                    <li><a href="https://facebook.com" target="_blank"><img src="Images/facebook.png"></a></li>
-                </ul>
-            </footer>
+            <footer class="main-footer">
+                    <div class="container main-footer-container">
+    
+                    
+                    <h3 class="band-name">Go West </h3>
+                    <ul class="nav footer-nav">
+                        <li><a href="https://youtube.com" target="_blank"> <img src="Images/youtube.png" height =50></a></li>
+                        <li><a href="https://spotify.com" target="_blank"> <img src="Images/spotify.png" height=50></a></li>
+                        <li><a href="https://facebook.com" target="_blank" ><img src="Images/facebook.png"height=50></a></li>
+                    </ul>
+                    </div>
+                </footer>
         </body>
     </html>
